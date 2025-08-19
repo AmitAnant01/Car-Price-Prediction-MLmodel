@@ -1,4 +1,4 @@
-## Created Car Price Prediction ML App!
+# Created Car Price Prediction ML App!
 
 This project is all about building a machine learning model that can predict the resale price of a car based on its features. I have e not only trained the model but also built a complete web app using Streamlit so anyone can interact with it easily.
 
