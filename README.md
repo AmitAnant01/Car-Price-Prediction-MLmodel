@@ -49,4 +49,4 @@ This project is all about building a machine learning model that can predict the
 
 If you find this useful, feel free to ⭐ the repo or give suggestions I had love to hear your feedback 😊
 
-👩‍💻Author: Amit Kumar
+### 👩‍💻Author: Amit Kumar
