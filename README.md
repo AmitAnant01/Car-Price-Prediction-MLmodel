@@ -10,7 +10,7 @@ This project is all about building a machine learning model that can predict the
 
 - Built a user-friendly web interface for live predictions
 
-- Packed everything into a GitHub repo for open access
+
 
 ## Inside this the GitHub Repo you can find:
 
